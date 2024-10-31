@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    /* background-color: black; */
     font-family: 'Roboto', sans-serif;
     margin: 20px;
 }
@@ -14,7 +14,7 @@ body {
     width: 960px;
     margin: 0 auto;
 }
-/* TODO: Add css here */
+TODO: Add css here
 .tabs {
 
 }
